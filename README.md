@@ -56,7 +56,7 @@ No external analytical libraries are required, as the project relies solely on P
 2.  Place the `records.csv` file in the same directory as the `Mini Project Final.py` script.
 3.  Run the script from your terminal:
     ```bash
-    python "Mini Project Final.py"
+    python "TeamAllocationSimulator.py"
     ```
 4.  When prompted, enter the desired number of students per group (an integer between 4 and 10).
 
