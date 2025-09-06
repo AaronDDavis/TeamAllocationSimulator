@@ -1,4 +1,4 @@
-# Team Allocation Simulator for SC1003
+# Team Allocation Simulator
 
 This is a Python-based **Team Allocation Simulator** developed individually for the mini-project in the Nanyang Technological University (NTU) course **SC1003: Introduction to Computational Thinking and Programming**. The project addresses the challenge of efficiently forming balanced and diverse student teams in a large course with 6,000 students.
 
